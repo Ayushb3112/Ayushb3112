@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Ayush. I like to call myself a builder. Currenlty Co-Founder/CTO at Noryx (noryx.no).<br><br>I’m spending an exchange year at NTNU, Norway and studying Data Science at IIT Mandi.<br>Check out my linkedin for more info. <br><br>Always down to collab, learn something weird, or ship something fun.
+Hey! I'm Ayush. I like to build stuff to solve people's problems. My latest work is Noryx (noryx.no).<br><br>I’m spending an exchange year at NTNU, Norway and studying Data Science at IIT Mandi.<br>Check out my linkedin for more info. <br><br>Always down to collab, learn something weird, or ship something fun.
 
 
 
